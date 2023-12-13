@@ -27,8 +27,12 @@ press('space')
 ## Power-up
 
 🔴  Laser
+
 🟡  Invinclible
+
 🔵  Freeze
+
 🟣  Kill-All
+
 ⚪️  Bonus Point
 
