@@ -12,7 +12,7 @@ git clone https://github.com/Nerada00/Invaders-Space.git
 ## Usage
 
 ```python
-import Invaders-Space
+import Invaders_Space
 
 # move to the left (keyboard_key)
 press('<-')
