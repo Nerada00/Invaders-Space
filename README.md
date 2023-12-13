@@ -6,13 +6,13 @@ Space invaders game in python, coded from the PyGame library.
 
 
 ```bash
-git clone 
+git clone https://github.com/Nerada00/Invaders-Space.git
 ```
 
 ## Usage
 
 ```python
-import 
+import Invaders-Space
 
 # move to the left (keyboard_key)
 press('<-')
