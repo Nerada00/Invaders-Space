@@ -7,6 +7,8 @@ Space invaders game in python, coded from the PyGame library.
 
 ```bash
 git clone https://github.com/Nerada00/Invaders-Space.git
+cd Invaders-Space
+pip3 install pygame
 ```
 
 ## Usage
@@ -28,7 +30,7 @@ press('space')
 
 🔴  Laser
 
-🟡  Invinclible
+🟡  Invincible
 
 🔵  Freeze
 
