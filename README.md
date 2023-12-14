@@ -9,6 +9,7 @@ Space invaders game in python, coded from the PyGame library.
 git clone https://github.com/Nerada00/Invaders-Space.git
 cd Invaders-Space
 pip3 install pygame
+python3 Invaders_Space.py 
 ```
 
 ## Usage
