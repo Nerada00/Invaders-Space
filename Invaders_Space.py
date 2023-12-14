@@ -684,7 +684,7 @@ class Joueur(pygame.sprite.Sprite):
         self.vitesse = 6
         self.plusieur_orbes = pygame.sprite.Group()
         self.plusieur_tonerre = pygame.sprite.Group()
-        self.image = pygame.image.load('Sprites/canon.png')
+        self.image = pygame.image.load('Sprites/Canon.png')
         self.image_p1 = pygame.image.load('Sprites/CanonRouge.png')
         self.image_p2 = pygame.image.load('Sprites/CanonBleu.png')
         self.image_p3 = pygame.image.load('Sprites/CanonJaune.png')
